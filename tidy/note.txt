@@ -1,0 +1,10 @@
+
+
+tidy options reference
+http://www.html-tidy.org/quickref.html
+
+tidy -config config.txt before-tidy.html > after-tidy.html
+
+tidy -config config.txt -m index.html
+
+
